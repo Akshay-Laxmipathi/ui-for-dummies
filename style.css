@@ -1017,6 +1017,7 @@ nav a > li:hover::after,
     justify-content: space-around;
     align-items: center;
     text-transform: uppercase;
+    font-weight: bold;
     padding-bottom: 1rem;
     border-bottom: 0.1rem solid #dddddd;
 }
