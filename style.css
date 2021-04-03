@@ -46,6 +46,11 @@ nav .nav__header {
     padding-bottom: 2.5rem;
 }
 
+.nav__github {
+    padding-top: 1.5rem;
+    height: 3rem;
+}
+
 nav a > li {
     width: fit-content;
 }
